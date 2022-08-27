@@ -748,6 +748,11 @@ h3.title
     width: 100%;
     display: block;
 }
+.net-clone{
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 25px;
+}
 
  /**--- Contact Me ---**/
 
